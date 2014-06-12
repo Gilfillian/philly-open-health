@@ -11,7 +11,7 @@ We're also doing some lightweight project management over at [Trello](https://tr
 
 
 Actually running the code
-=======
+=========================
 
 Start by creating a user. In the terminal type:
 
